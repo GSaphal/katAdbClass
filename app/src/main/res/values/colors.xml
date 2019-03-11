@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="grey">#bfbfbf</color>
+    <color name="green">#58a5f0</color>
+    <color name="blue">#ff33b5e5</color>
+    <color name="colorCardView">#f7f7f7</color>
+    <color name="black">#000</color>
+    <color name="deep_purple_400">#7e57c2</color>
+
+    <!--login-->
+    <color name="fb_blue_normal">#0277bd</color>
+    <color name="fb_blue_pressed">#5A76B1</color>
+    <color name="white">#ffffff</color>
+
+    <item name="red_500" type="color">#e51c23</item>8
+    <color name="red_pressed">#DD4B39</color>
+    <color name="red_normal">#B64032</color>
+    <color name="light_grey">#eeeeee</color>
+    <color name="dark_grey">#757575</color>
+
+    <color name="mcam_color_light">#FAFAFA</color>
+    <color name="mcam_color_dark">#424242</color>
+
+    <color name="primary_dark_text">#28333D</color>
+    <color name="secondary_text">#434343</color>
+    <color name="secondary_light">#979797</color>
+
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="custom_divider_color">#dfdfdf</color>
+    <color name="highlight_text">#17a1d7</color>
+
+    <color name="send_button_color">@color/colorPrimary</color>
+
+    <color name="light_gray">#d8d6d5</color>
+
+    <color name="posts_counter_bg">#df3e3e3e</color>
+
+    <color name="like_icon_activated">#FF5252</color>
+    <color name="icons_counter_color">#828181</color>
+    <color name="circle_image_shadow">#8b8b8b</color>
+
+    <color name="send_comment_button_activated">#0097d3</color>
+    <color name="send_comment_button_deactivated">#7fcbe9</color>
+    <color name="dark_transparent">#81000000</color>
+    <color name="mediumGrey">#777777</color>
+    <color name="color_white">#fff</color>
+    <color name="color_black">#000</color>
+    <color name="blue_grey">#000</color>
+    <color name="color_black1">#000</color>
+    <color name="color_grey">#bfbfbf</color>
+
+
+</resources>
