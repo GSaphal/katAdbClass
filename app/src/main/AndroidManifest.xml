@@ -11,6 +11,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".startup.LoginActivity"></activity>
+        <activity android:name=".startup.SplashActivity" />
         <activity android:name=".FacebookActivityv2">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,10 +20,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".FacebookActivity">
-
-        </activity>
-        <activity android:name=".TestActivity"></activity>
+        <activity android:name=".FacebookActivity" />
+        <activity android:name=".TestActivity" />
         <activity android:name=".Main2Activity" />
         <activity android:name=".MainActivity" />
     </application>
